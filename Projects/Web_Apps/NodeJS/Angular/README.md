@@ -1,1 +1,1 @@
-Projects in this folder uses ReactJs for view.
+Projects in this folder uses Angular for view.
