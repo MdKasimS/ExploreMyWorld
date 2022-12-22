@@ -1,1 +1,1 @@
-These projects use simply HTML, CSS and JS.
+These projects are bare metal which uses simply HTML, CSS and JS.
