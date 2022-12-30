@@ -102,15 +102,6 @@ class Vehicle:
     def __str__(self):
         return "Autombile have Engine, Brakes, PowerTrain, Seats, DashBoard, AC, AirBags" 
 
-class Dog:
-    species= "Canis familiaris"
-
-    def __inti__(self):
-        print("This is Dog class ")
-
-    def speak(self):
-        print("I speak --- ")
-
 
 class Car:
     brand = ""
